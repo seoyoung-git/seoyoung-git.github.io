@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### About Me
-I am an architectural and urban researcher investigating the design and dynamics of future built environments. Grounded in both controlled empirical experiments and computational simulations, my research bridges spatial data science, urban AI, and human behavior analysis to understand how emerging technologies and autonomous systems reshape pedestrian dynamics and spatial configurations.
+I am an architectural and urban researcher investigating the design and dynamics of future urban spaces. My research bridges spatial data science, urban AI, and computational modeling to understand how emerging technologies shape human behavior and spatial configurations in the built environment.
 
 ### Research Interests
 * **Future Urban Spaces & Human–Robot Environments**: Spatial configuration, spatial legibility, and environmental adaptation for human–robot coexistence.
@@ -16,7 +16,15 @@ I am an architectural and urban researcher investigating the design and dynamics
 ### Education
 * **Yonsei University**, Seoul, South Korea  
   Integrated M.S./Ph.D. in Architecture and Architectural Engineering
-
+  *Sep 2024 – Present*
+* **Yonsei University**, Seoul, South Korea  
+  B.Arch in Architecture and Architectural Engineering
+  *Mar 2019 – Aug 2024*
+  
+### Research Experience
+* **Korea Institute of Civil Engineering and Building Technology (KICT)**, Goyang, South Korea  
+  Student Researcher, Department of Future Smart Construction Research
+  *Sep 2026 – Present*
 ---
 
 ### Contact & Links
