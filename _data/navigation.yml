@@ -1,11 +1,11 @@
 - title: About
   url: /about/
-- title: Years
-  url: /years/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
+- title: Project
+  url: /Project/
+- title: Publication
+  url: /Publication/
+- title: Activity
+  url: /Activity/
 - title: More
   sublinks:
     - title: FAQ
