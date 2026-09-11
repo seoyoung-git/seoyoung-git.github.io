@@ -14,16 +14,16 @@ I am an architectural and urban researcher investigating the design and dynamics
 * **Behavioral Simulation & Modeling**: Pedestrian movement, agent-based modeling (ABM), and quantitative interaction dynamics.
 
 ### Education
-* **Yonsei University**, Seoul, South Korea  
-  Integrated M.S./Ph.D. in Architecture and Architectural Engineering
+* **Yonsei University**, Seoul, South Korea<br>  
+  Integrated M.S./Ph.D. in Architecture and Architectural Engineering<br> 
   *Sep 2024 – Present*
-* **Yonsei University**, Seoul, South Korea  
-  B.Arch in Architecture and Architectural Engineering
+* **Yonsei University**, Seoul, South Korea<br>   
+  B.Arch in Architecture and Architectural Engineering<br> 
   *Mar 2019 – Aug 2024*
   
 ### Research Experience
-* **Korea Institute of Civil Engineering and Building Technology (KICT)**, Goyang, South Korea  
-  Student Researcher, Department of Future Smart Construction Research
+* **Korea Institute of Civil Engineering and Building Technology (KICT)**, Goyang, South Korea<br>   
+  Student Researcher, Department of Future Smart Construction Research<br> 
   *Sep 2026 – Present*
 ---
 
