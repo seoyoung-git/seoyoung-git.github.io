@@ -28,5 +28,5 @@ I am an architectural and urban researcher investigating the design and dynamics
 ---
 
 ### Contact & Links
-* **Email**: seoyoungkim0124@yonsei.ac.kr
-* **Lab**: [Architectural & Urban Space Design Lab](https://www.laudyonsei.com/)
+* **Email**: seoyoungkim0124@yonsei.ac.kr / seoyoungkim@kict.re.kr
+* **Lab**: [The Lab of Architectural & Urban Space Design](https://www.laudyonsei.com/)
