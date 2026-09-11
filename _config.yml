@@ -1,8 +1,12 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+title: Seoyoung Kim
+description: Researcher in Architecture and Urban AI
+author: Seoyoung Kim
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: seoyoungkim0124@yonsei.ac.kr
+
+# 2. 필수 추가 항목 (원래 파일에 빠져있으므로 plugins 위에 추가 필요)
+url: "https://seoyoung-git.github.io"
+baseurl: ""
 
 plugins:
   - jekyll-seo-tag
@@ -29,15 +33,11 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
 logo: logo.png
 social:
-  name: Shangzhi Huang
+  name: Seoyoung Kim
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://github.com/seoyoung-git
+    - https://www.laudyonsei.com/
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
