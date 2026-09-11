@@ -1,11 +1,11 @@
 - title: About
   url: /about/
 - title: Project
-  url: /Project/
+  url: /project/
 - title: Publication
-  url: /Publication/
+  url: /publication/
 - title: Activity
-  url: /Activity/
+  url: /activity/
 - title: More
   sublinks:
     - title: FAQ
