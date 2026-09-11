@@ -3,10 +3,12 @@ layout: post
 title: "Evaluating the Effects of Intelligent Home Systems on Energy Management Costs in Multi-Family Housing"
 date: 2026-06-01
 categories: [Journal]
-authors: "Seoyoung Kim, Kyujin Choi, Kyungho Oh, Daniel Lee, and Dongwook Sohn"
-venue: "Journal of the Architectural Institute of Korea"
-status: "Vol. 42, No. 6, pp. 19–27"
-doi: "https://doi.org/..."
+---
+
+**Authors**: Seoyoung Kim, Kyujin Choi, Kyungho Oh, Daniel Lee, and Dongwook Sohn  
+**Journal**: *Journal of the Architectural Institute of Korea (대한건축학회논문집)*, Vol. 42, No. 6, pp. 19–27 (2026.06)  
+**DOI / Link**: [Link](https://doi.org/...)
+
 ---
 
 ### Abstract
@@ -16,14 +18,5 @@ Utilizing quantitative spatial analytics and empirical data from apartment compl
 
 ---
 
-### Key Information
-* **Authors**: Seoyoung Kim, Kyujin Choi, Kyungho Oh, Daniel Lee, Dongwook Sohn
-* **Journal**: *Journal of the Architectural Institute of Korea (대한건축학회논문집)*
-* **Publication Date**: June 2026 (Vol. 42, No. 6, pp. 19–27)
-* **Keywords**: Intelligent Home Systems, Energy Management Cost, Multi-Family Housing, Spatial Analytics, Smart Architecture
-
----
-
-### Links & Resources
-* [[Journal Paper / DOI]](https://doi.org/...)
-* [[Author Preprint / PDF]](/assets/papers/2026_IHS_Energy_Management.pdf)
+### Keywords
+Intelligent Home Systems, Energy Management Cost, Multi-Family Housing, Spatial Analytics, Smart Architecture
