@@ -1,22 +1,29 @@
 ---
 layout: post
+title: "Evaluating the Effects of Intelligent Home Systems on Energy Management Costs in Multi-Family Housing"
+date: 2026-06-01
+categories: [Journal]
+authors: "Seoyoung Kim, Kyujin Choi, Kyungho Oh, Daniel Lee, and Dongwook Sohn"
+venue: "Journal of the Architectural Institute of Korea"
+status: "Vol. 42, No. 6, pp. 19–27"
+doi: "https://doi.org/..."
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Abstract
+This study investigates the empirical effects of intelligent home systems (IHS) on household energy management costs within multi-family residential complexes. As smart home technologies and energy management systems (HEMS) become increasingly integrated into contemporary housing, evaluating their actual cost-reduction efficacy across diverse building environments is critical for sustainable architectural planning.
 
-Jekyll also offers powerful support for code snippets:
+Utilizing quantitative spatial analytics and empirical data from apartment complexes, this research examines the relationship between automated environmental controls and energy expenditure patterns. The findings provide data-driven insights into how intelligent residential systems can be optimized to balance occupant comfort, operational efficiency, and long-term building maintenance costs.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+---
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### Key Information
+* **Authors**: Seoyoung Kim, Kyujin Choi, Kyungho Oh, Daniel Lee, Dongwook Sohn
+* **Journal**: *Journal of the Architectural Institute of Korea (대한건축학회논문집)*
+* **Publication Date**: June 2026 (Vol. 42, No. 6, pp. 19–27)
+* **Keywords**: Intelligent Home Systems, Energy Management Cost, Multi-Family Housing, Spatial Analytics, Smart Architecture
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+---
+
+### Links & Resources
+* [[Journal Paper / DOI]](https://doi.org/...)
+* [[Author Preprint / PDF]](/assets/papers/2026_IHS_Energy_Management.pdf)
