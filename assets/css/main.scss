@@ -2,3 +2,14 @@
 ---
 
 @import "hamilton/main";
+
+/* 본문 텍스트 양쪽 정렬 및 하이픈 자동 처리 */
+.site-main p,
+.page-content p,
+.post-content p {
+  text-align: justify;
+  text-justify: inter-word;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
