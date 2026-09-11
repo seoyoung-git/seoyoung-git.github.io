@@ -3,10 +3,13 @@
 
 @import "hamilton/main";
 
-/* 본문 텍스트 양쪽 정렬 및 하이픈 자동 처리 */
+/* 본문 문단(p) 및 불릿 리스트(li) 양쪽 정렬 */
 .site-main p,
+.site-main li,
 .page-content p,
-.post-content p {
+.page-content li,
+.post-content p,
+.post-content li {
   text-align: justify;
   text-justify: inter-word;
   -webkit-hyphens: auto;
